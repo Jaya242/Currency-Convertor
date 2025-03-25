@@ -1,4 +1,4 @@
-# 💱 Currency Converter Web App
+# 💱 Currency Converter
 
 A simple and elegant Currency Converter web application built with HTML, CSS, and JavaScript. It fetches real-time exchange rates using the [Fawaz Ahmed Currency API](https://github.com/fawazahmed0/currency-api).
 
@@ -12,7 +12,7 @@ A simple and elegant Currency Converter web application built with HTML, CSS, an
 
 ## 📸 Preview
 
-![Currency Converter Screenshot](preview.png) <!-- Replace with actual screenshot -->
+![Currency Converter Screenshot](<img width="454" alt="Image" src="https://github.com/user-attachments/assets/0e846702-74a3-4486-849f-4b7a3dffed3a" />) <!-- Replace with actual screenshot -->
 
 ---
 
