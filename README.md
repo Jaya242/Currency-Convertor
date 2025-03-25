@@ -13,7 +13,7 @@ A simple and elegant Currency Converter web application built with HTML, CSS, an
 ---
 
 ## 📸 Preview
-<img width="979" alt="Image" src="https://github.com/user-attachments/assets/43601352-b72b-4ffc-a953-2dd0c958683d" />
+<img width="454" alt="Image" src="https://github.com/user-attachments/assets/43601352-b72b-4ffc-a953-2dd0c958683d" />
 
 
 ## 🚀 Features
