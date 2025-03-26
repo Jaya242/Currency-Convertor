@@ -49,7 +49,7 @@ const updateExchangeRate=async()=>{
     const url = `${BASEURL}/${fromCurrency.value.toLowerCase()}.json`;
     let response=await fetch(url);
     let data=await response.json();
-    // let rate=data[toCurrency.value];
+    // let rate=data[toCurrency.value];;
     let rate = data[fromCurrency.value.toLowerCase()][toCurrency.value.toLowerCase()];
     console.log(rate)
     let finalamt=amtval*rate;
